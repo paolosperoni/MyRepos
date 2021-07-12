@@ -14,6 +14,7 @@ public class CodiceFiscale
     private String data;
 
     static final String NEWLINE = System.getProperty("line.separator");
+   
 
     public CodiceFiscale()
     {
@@ -51,7 +52,7 @@ public class CodiceFiscale
     {
         f.setLayout(new BorderLayout());
         pID.setLayout(new GridLayout(6,3));
-
+        int a ;
         f.setSize(450,230);
         f.setLocation(250, 200);
 
