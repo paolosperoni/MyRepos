@@ -33,6 +33,8 @@ public class CodiceFiscale
         tfLuogoNascita = new TextField(40);
         tfProvincia = new TextField(2);
         displayArea = new TextArea();
+        
+        int i = 0 ; // test for GIT commit 
 
         labNome=new Label("Nome",Label.RIGHT);
         labCognome=new Label("Cognome",Label.RIGHT);
