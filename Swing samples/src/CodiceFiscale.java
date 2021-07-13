@@ -35,6 +35,7 @@ public class CodiceFiscale
         displayArea = new TextArea();
         
         int i = 0 ; // test for GIT commit 
+        int i1 = 1 ;
 
         labNome=new Label("Nome",Label.RIGHT);
         labCognome=new Label("Cognome",Label.RIGHT);
